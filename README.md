@@ -1,5 +1,5 @@
 
-# Olá, Me chamo Sergio martins
+## Olá, Me chamo Sergio martins
 
  - 🌱 I’m currently learning |CS50's Introduction to Computer Science| 
 -  ⚡ Fun fact: 

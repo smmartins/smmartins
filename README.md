@@ -1,7 +1,7 @@
+
 ## Olá, Me chamo Sergio martins
 
- 
-- 🌱 I’m currently learning |CS50's Introduction to Computer Science| 
+ - 🌱 I’m currently learning |CS50's Introduction to Computer Science| 
 -  ⚡ Fun fact: 
 - 🐱‍💻 print("Hello World!") Expert!!! 
 ##
@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/smmartins">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=smmartins&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmartins&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=smmartins&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmartins&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   </div>

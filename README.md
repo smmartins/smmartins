@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/smmartins">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=smmartins&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="300" src="https://github-readme-stats.vercel.app/api?username=smmartins&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmartins&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
